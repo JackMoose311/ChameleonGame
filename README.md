@@ -1,6 +1,10 @@
-# ChameleonGame
-An app based on the board game "Chameleon".
-Features many categories such as Movies, Video Games, and Clash Royale characters.
-Test it on your Android!
+#Chameleon Game
 
-**This was entirely coded by Cursor** 
+This is a project based on the fun board game **"Chameleon"** where everybody knows the word except for the chameleon. Can you spot them?
+
+This was designed for Android; however, you can now play it on browser!
+https://jackmoose311.github.io/ChameleonGame/
+
+Have fun!
+
+**This was a project coded entirely using Cursor for fun :)**
